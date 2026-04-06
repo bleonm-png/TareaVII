@@ -3,4 +3,4 @@ project(TareaVII)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(TareaVII main.cpp)
+add_executable(TareaVII Ejercicio.cpp)
